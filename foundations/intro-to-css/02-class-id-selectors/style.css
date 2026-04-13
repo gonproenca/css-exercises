@@ -1,1 +1,28 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #23e;
+}
+
+.one {
+    font-family: 'Courier New', Courier, monospace
+}
+
+#two{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #aaa;
+};/* Add CSS Styling */
+
+.three{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+};
+
+#four {
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.five {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+};
